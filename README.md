@@ -55,19 +55,11 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
 ## 🏅 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/users/shivang-sharma-dev" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA-C03"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.credly.com/users/shivang-sharma-dev" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Academy-Graduate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Academy Graduate"/>
-  </a>
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"/>
 </p>
 
-| 🏆 Certification | 📅 Details |
-|---|---|
-| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Passed **February 2026** · Score: **823 / 1000** · [View on Credly](https://www.credly.com/users/shivang-sharma-dev) |
-| **AWS Academy Graduate** | Verified via **Credly** ✅ · [View on Credly](https://www.credly.com/users/shivang-sharma-dev) |
+**AWS Certified Solutions Architect – Associate (SAA-C03)**
+Passed in **February 2026** with a score of **823 / 1000**
 
 ---
 
