@@ -82,17 +82,6 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivang-sharma-91a5a9168/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivang-sharma-dev)
-
-</div>
-
----
-
 <div align="center">
 
 💡 *"Build it. Break it. Fix it. Automate it."*
