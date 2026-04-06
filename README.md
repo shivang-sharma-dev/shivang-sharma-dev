@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Shivang+Sharma+👋;AWS+Certified+Solutions+Architect;DevOps+%26+Cloud+Engineer;Learning+%7C+Building+%7C+Automating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Shivang+Sharma+👋;DevOps+%26+Cloud+Engineer;Learning+%7C+Building+%7C+Automating)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building scalable infrastructure, automating deployments, and learning everything cloud-native. I hold the **AWS Certified Solutions Architect – Associate (SAA-C03)** certification and I'm constantly leveling up my skills in the DevOps space.
+I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building scalable infrastructure, automating deployments, and learning everything cloud-native. I'm constantly leveling up my skills in the DevOps space.
 
 - 🔭 Currently working on **Docker, Grafana monitoring stacks, and cloud-native deployments**
 - 🌱 Always learning about **Kubernetes, CI/CD pipelines, and infrastructure as code**
 - 👯 Looking to collaborate on **open-source DevOps projects and cloud initiatives**
 - 💬 Ask me about **AWS, Docker, Linux, Grafana, and Prometheus**
-- 🏆 **AWS Certified Solutions Architect – Associate** (SAA-C03) — Scored 823/1000
-- ⚡ Fun fact: I automate everything I can — even my study notes!
+- 🏆 **AWS Certified Solutions Architect – Associate** (SAA-C03) 
+- ⚡ Fun fact: I automate everything I can. 
 
 ---
 
