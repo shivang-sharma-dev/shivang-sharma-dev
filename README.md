@@ -97,7 +97,4 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
 
 💡 *"Build it. Break it. Fix it. Automate it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivang-sharma-dev&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/shivang-sharma-dev?label=Follow&style=social)](https://github.com/shivang-sharma-dev)
-
 </div>
