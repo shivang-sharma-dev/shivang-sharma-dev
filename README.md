@@ -75,13 +75,6 @@ Passed in **February 2026** with a score of **823 / 1000**
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivang-sharma-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
 ---
 
 ## 📈 Activity Graph
