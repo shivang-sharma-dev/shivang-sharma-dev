@@ -58,9 +58,6 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"/>
 </p>
 
-**AWS Certified Solutions Architect – Associate (SAA-C03)**
-Passed in **February 2026** with a score of **823 / 1000**
-
 ---
 
 ## 📊 GitHub Stats
