@@ -28,8 +28,7 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
 ## 🛠️ Tech Stack
 
 #### _Cloud Infra - CICD - Microservices_
-[![Cloud & DevOps]](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab,bitbucket,githubactions,cloudflare,postgres,nginx)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab,bitbucket,githubactions,cloudflare,postgres,nginx)](https://skillicons.dev)
 #### _Programming Languages & Frameworks_
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,powershell,bash,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
