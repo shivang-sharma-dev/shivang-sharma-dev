@@ -1,6 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Shivang+Sharma+👋;DevOps+%26+Cloud+Engineer;Learning+%7C+Building+%7C+Automating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivang+Sharma+👋;AWS+Certified+Solutions+Architect+☁️;DevOps+%26+Cloud+Engineer;CI%2FCD+%7C+Docker+%7C+K8s+%7C+Terraform+%7C+Grafana;Build+it.+Break+it.+Fix+it.+Automate+it.)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://www.linkedin.com/in/shivang-sharma-dev/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=087bb7&style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=shivang-sharma-dev&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS">
 
 </div>
 
@@ -10,53 +16,51 @@
 
 I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building scalable infrastructure, automating deployments, and learning everything cloud-native. I'm constantly leveling up my skills in the DevOps space.
 
-- 🔭 Currently working on **Docker, Grafana monitoring stacks, and cloud-native deployments**
+- 🔭 Currently building **CloudSage AI** — an AI-powered cloud cost intelligence platform
 - 🌱 Always learning about **Kubernetes, CI/CD pipelines, and infrastructure as code**
 - 👯 Looking to collaborate on **open-source DevOps projects and cloud initiatives**
-- 💬 Ask me about **AWS, Docker, Linux, Grafana, and Prometheus**
-- 🏆 **AWS Certified Solutions Architect – Associate** (SAA-C03) 
-- ⚡ Fun fact: I automate everything I can. 
+- 💬 Ask me about **AWS, Docker, Linux, Grafana, Prometheus, and GitHub Actions**
+- 🏆 **AWS Certified Solutions Architect – Associate** (SAA-C03)
+- ⚡ Fun fact: I automate everything I can — including things that probably didn't need automating
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
-</p>
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,githubactions,nginx)](https://skillicons.dev)
 
-### 📊 Monitoring & Databases
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
-</p>
+### 📊 Monitoring & Observability
+[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana,postgres,mongodb,redis)](https://skillicons.dev)
+<img src="https://www.vectorlogo.zone/logos/grafana_loki/grafana_loki-icon.svg" alt="loki" width="48" height="48"/>
+
+### 🔒 Security & Quality
+[![Security](https://skillicons.dev/icons?i=sonarqube)](https://skillicons.dev)
 
 ### 💻 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-</p>
+[![Languages](https://skillicons.dev/icons?i=python,bash,html,vscode,github)](https://skillicons.dev)
 
 ---
 
 ## 🏅 Certifications
 
-<p align="left">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100" height="100"/>
-</p>
+<div align="center">
+  <a href="https://www.credly.com/badges/YOUR_BADGE_ID">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="120" height="120"/>
+  </a>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| **[☁️ CloudSage AI](https://github.com/shivang-sharma-dev/CloudSage-AI)** | AI-powered cloud cost intelligence platform. Analyzes AWS spend, detects anomalies, and suggests optimizations in real-time. | `Docker` `FastAPI` `PostgreSQL` `Grafana` `GitHub Actions` `SonarCloud` |
+
+</div>
 
 ---
 
@@ -72,6 +76,13 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivang-sharma-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
+</div>
+
 ---
 
 ## 📈 Activity Graph
