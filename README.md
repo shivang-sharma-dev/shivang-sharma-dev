@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivang+Sharma+👋;AWS+Certified+Solutions+Architect+☁️;DevOps+%26+Cloud+Engineer;CI%2FCD+%7C+Docker+%7C+K8s+%7C+Terraform+%7C+Grafana;Build+it.+Break+it.+Fix+it.+Automate+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivang+Sharma+👋;;DevOps+%26+Cloud+Engineer;Build+it.+Break+it.+Fix+it.+Automate+it.)](https://git.io/typing-svg)
 
 <br>
 
@@ -27,18 +27,14 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,githubactions,nginx)](https://skillicons.dev)
+#### _Cloud Infra - CICD - Microservices_
+[![Cloud & DevOps]](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab,bitbucket,githubactions,cloudflare,postgres,nginx)](https://skillicons.dev)
 
-### 📊 Monitoring & Observability
-[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana,postgres,mongodb,redis)](https://skillicons.dev)
-<img src="https://www.vectorlogo.zone/logos/grafana_loki/grafana_loki-icon.svg" alt="loki" width="48" height="48"/>
+#### _Programming Languages & Frameworks_
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,powershell,bash,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
-### 🔒 Security & Quality
-[![Security](https://skillicons.dev/icons?i=sonarqube)](https://skillicons.dev)
-
-### 💻 Languages & Tools
-[![Languages](https://skillicons.dev/icons?i=python,bash,html,vscode,github)](https://skillicons.dev)
+#### _Testing & Documentation & Communication Tools_
+  [![My Skills](https://skillicons.dev/icons?i=md,cypress,postman,notion,vscode,visualstudio,eclipse)](https://skillicons.dev)
 
 ---
 
