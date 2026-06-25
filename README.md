@@ -54,14 +54,6 @@ I'm a **DevOps & Cloud Engineer** from 🇮🇳 India, passionate about building
 ---
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivang-sharma-dev&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
-
 <div align="center">
 
 💡 *"Build it. Break it. Fix it. Automate it."*
